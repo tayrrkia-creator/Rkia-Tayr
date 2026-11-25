@@ -1,0 +1,6 @@
+{
+  "name": "موسوعة استراتيجيات الاستثمار — خلاصة مكتبة kelvin200",
+  "description": "دراسة تحليلية شاملة باللغة العربية لجميع كتب الاستثمار والتداول في مستودع kelvin200 مع استخلاص أقوى الاستراتيجيات الهجينة ومختبر محاكاة المخاطر والزخم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
